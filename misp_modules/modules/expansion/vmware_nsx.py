@@ -45,7 +45,7 @@ mispattributes = {
 moduleinfo = {
     "version": "0.2",
     "author": "Jason Zhang",
-    "description": "Enrich file hashes or file attachments with VMware NSX sandbox analysis",
+    "description": "Enrich a file or URL with VMware NSX Defender",
     "module-type": ["expansion", "hover"],
 }
 
